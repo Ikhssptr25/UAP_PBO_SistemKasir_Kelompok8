@@ -3,3 +3,6 @@
 # Sistem Kasir # 
 - Ikhsan Saputra 2117051037
 - Rizky Abdillah 2117051060
+- Arja Syahira
+
+
